@@ -1,0 +1,24 @@
+[package]
+name = "clair"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.5.28", features = ["derive"] }
+
+[[bin]]
+name = "sum"
+path = "src/sum/bin/main.rs"
+
+[[bin]]
+name = "product"
+path = "src/product/bin/main.rs"
+
+[[bin]]
+name = "count"
+path = "src/count/bin/main.rs"
+
+[[bin]]
+name = "mean"
+path = "src/mean/bin/main.rs"
+
