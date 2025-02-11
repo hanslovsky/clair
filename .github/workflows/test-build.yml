@@ -17,4 +17,4 @@ jobs:
     - uses: actions/checkout@v4
     - run: rustup update
     - run: cargo build --release
-    - run: sh test.sh
+    - run: ./test.sh
