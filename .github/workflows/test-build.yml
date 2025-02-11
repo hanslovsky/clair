@@ -2,6 +2,10 @@ name: Build
 
 permissions: {}
 
+on:
+  pull_request:
+  push:
+
 env:
   # Disable incremental compilation for faster from-scratch builds
   CARGO_INCREMENTAL: 0
