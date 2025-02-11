@@ -1,3 +1,5 @@
+[![Build](https://github.com/hanslovsky/clair/actions/workflows/test-build.yml/badge.svg)](https://github.com/hanslovsky/clair/actions/workflows/test-build.yml)
+
 # CLAIR—Command Line Arithmetic in Rust
 
 CLAIR is a small personal project for exploring the [Rust programming language](https://www.rust-lang.org/).
