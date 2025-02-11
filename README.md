@@ -1,4 +1,6 @@
 [![Build](https://github.com/hanslovsky/clair/actions/workflows/test-build.yml/badge.svg)](https://github.com/hanslovsky/clair/actions/workflows/test-build.yml)
+[![Crates.io Version](https://img.shields.io/crates/v/clair)](https://crates.io/crates/clair)
+
 
 # CLAIR—Command Line Arithmetic in Rust
 
