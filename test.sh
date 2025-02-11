@@ -1,4 +1,4 @@
-function _myshuf {
+_myshuf() {
     shuf --random-source=Cargo.toml -i 1-$1
 }
 
